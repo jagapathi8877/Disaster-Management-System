@@ -1,4 +1,4 @@
-** Project: Disaster Management & Emergency Alert System**
+**Project: Disaster Management & Emergency Alert System**
 
 **Problem Statement:**
 
