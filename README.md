@@ -75,10 +75,14 @@ Profile & report history
 🛠️ Technology Stack (MERN)
 
 MongoDB — Geo-enabled database
+
 Express.js + Node.js — Backend APIs & services
+
 React — Web application interface
+
 Socket.IO — Real-time communication
+
 Google Maps / GeoJSON — Location & mapping services
-Firebase / FCM — Push notifications
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/31ed4842-c189-42ff-8c17-9cddeccdd2fb" />
 
