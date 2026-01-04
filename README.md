@@ -30,7 +30,7 @@ Media upload (image/video/audio)
 Category-wise incident classification
 SOS emergency trigger
 
-**SOS Alert & Notification System******
+**SOS Alert & Notification System**
 
 One-tap distress alert
 Push notifications to nearby users
