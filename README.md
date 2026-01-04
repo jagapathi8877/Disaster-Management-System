@@ -1,6 +1,6 @@
-📌 Project: Disaster Management & Emergency Alert System
+** Project: Disaster Management & Emergency Alert System**
 
-🛑 Problem Statement:
+**Problem Statement:**
 
 Disasters and emergency incidents such as floods, fires, accidents, earthquakes, and hazardous situations require immediate reporting and coordinated response. However, in many real-world scenarios, communication between citizens, authorities, and responders is slow, fragmented, and lacks real-time visibility.Victims struggle to alert authorities quickly, responders do not receive accurate location-based information, and there is no unified platform to verify incidents, dispatch responders, track status, and broadcast public alerts.
 This gap often leads to:
@@ -10,7 +10,7 @@ Poor situational awareness
 Increased risk to human life and resources
 This project aims to solve these challenges by developing a centralized, real-time Disaster Management & Emergency Alert System that enables instant reporting, structured verification, coordinated response, and safety awareness.
 
-🎯 Project Objective
+**Project Objective**
 
 To build a MERN-based real-time emergency reporting and alert management platform that:
 Allows citizens to report incidents with location, description, and media
@@ -20,9 +20,9 @@ Enables authorities to verify incidents, assign responders, and track progress
 Uses maps, geo-fencing, and alert zones for situational awareness
 Maintains incident history and analytics for decision-making and preparedness
 
-🧩 Core Modules to be Integrated
+**Core Modules to be Integrated**
 
-1️⃣ Real-Time Incident Reporting
+**Real-Time Incident Reporting**
 
 Location-based incident reporting
 Auto geo-tagging & timestamp
@@ -30,14 +30,14 @@ Media upload (image/video/audio)
 Category-wise incident classification
 SOS emergency trigger
 
-2️⃣ SOS Alert & Notification System
+**SOS Alert & Notification System******
 
 One-tap distress alert
 Push notifications to nearby users
 Zone-based emergency broadcasts
 Authority alert integration
 
-3️⃣ Authority Dashboard
+**Authority Dashboard**
 
 Incident review & verification
 Responder/volunteer assignment
@@ -46,33 +46,33 @@ Reported → Verified → Responding → Resolved
 Duplicate & false report handling
 Activity and decision logs
 
-4️⃣ Geo-Location & Alert Zone Management
+**Geo-Location & Alert Zone Management**
 
 Map & location services
 Live incident map visualization
 Zone-based safety alerts
 Heatmap insights (future scope)
 
-5️⃣ Volunteer & Responder Coordination
+**Volunteer & Responder Coordination**
 
 Volunteer registration & availability
 Role-based responsibility mapping
 Live responder status tracking
 
-6️⃣ Incident History & Analytics
+**Incident History & Analytics**
 
 Historical incident records
 Case & response tracking
 Insights for disaster planning
 
-7️⃣ User Authentication & Role Management
+**User Authentication & Role Management**
 
 Secure login & identity validation
 Role-based access control:
 Citizen | Volunteer | Responder | Authority | Admin
 Profile & report history
 
-🛠️ Technology Stack (MERN)
+**Technology Stack (MERN)**
 
 MongoDB — Geo-enabled database
 
