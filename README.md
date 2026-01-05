@@ -53,12 +53,6 @@ Live incident map visualization
 Zone-based safety alerts
 Heatmap insights (future scope)
 
-**Volunteer & Responder Coordination**
-
-Volunteer registration & availability
-Role-based responsibility mapping
-Live responder status tracking
-
 **Incident History & Analytics**
 
 Historical incident records
